@@ -148,7 +148,7 @@ echo '{
   "up_mbps": 100,
   "down_mbps": 100,
   "disable_udp": false,
-  "obfs": "smtunnel",
+  "obfs": "mediatekvpn",
   "auth": {
     "mode": "external",
     "config": {
